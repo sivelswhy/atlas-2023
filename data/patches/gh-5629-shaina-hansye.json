@@ -1,0 +1,59 @@
+{
+	"id": 522,
+	"name": "Shaïna Hansye",
+	"description": "Tribute to Shaïna Hansye, a young woman victim of sexual harassment and violence murdered at the age of 15 in 2017.",
+	"links": {
+		"website": [
+			"https://www.france24.com/en/live-news/20230605-trial-begins-for-french-youth-accused-of-burning-alive-teen-girl"
+		],
+		"subreddit": [
+			"placefrance"
+		]
+	},
+	"path": {
+		"72-111": [
+			[
+				-447,
+				-11
+			],
+			[
+				-445,
+				-28
+			],
+			[
+				-444,
+				-54
+			],
+			[
+				-432,
+				-68
+			],
+			[
+				-419,
+				-64
+			],
+			[
+				-411,
+				-51
+			],
+			[
+				-409,
+				-29
+			],
+			[
+				-410,
+				-11
+			],
+			[
+				-447,
+				-10
+			]
+		]
+	},
+	"center": {
+		"72-111": [
+			-427,
+			-29
+		]
+	}
+}
