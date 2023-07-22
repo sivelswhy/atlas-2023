@@ -1,0 +1,56 @@
+{
+	"id": -1,
+	"name": "2024 Paris Olympic Games",
+	"description": "The 2024 Summer Olympics (French: Jeux olympiques d'été de 2024) is an upcoming international multi-sport event that is scheduled to take place from 26 July to 11 August 2024 with Paris as its main host city and 16 cities spread across metropolitan France and one in Tahiti—an island within the French overseas country and overseas collectivity of French Polynesia—as a subsite.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/2024_Summer_Olympics"
+		]
+	},
+	"path": {
+		"102": [
+			[
+				973,
+				-113
+			],
+			[
+				907,
+				-112
+			],
+			[
+				911,
+				-99
+			],
+			[
+				918,
+				-92
+			],
+			[
+				920,
+				-81
+			],
+			[
+				934,
+				-73
+			],
+			[
+				956,
+				-76
+			],
+			[
+				964,
+				-89
+			],
+			[
+				975,
+				-102
+			]
+		]
+	},
+	"center": {
+		"102": [
+			940,
+			-93
+		]
+	}
+}
